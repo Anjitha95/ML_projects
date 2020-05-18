@@ -7,3 +7,4 @@ All the projects related to ML.
 * Estimate wine quality.ipynb	
 * loan-prediction.ipynb	
 * titanic survival prediction.ipynb
+* Bikes-Assessment.ipynb
