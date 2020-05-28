@@ -8,3 +8,4 @@ All the projects related to ML.
 * loan-prediction.ipynb	
 * titanic survival prediction.ipynb
 * Bikes-Assessment.ipynb
+* Identify the sentiments
