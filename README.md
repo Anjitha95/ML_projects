@@ -18,5 +18,5 @@ All the projects related to Machine learning are shared in this repository.
 | 7 | Predicting the surge_pricing_type pro-actively for cab | [Mobility-Analytics.ipynb](https://github.com/Anjitha95/ML_projects/blob/master/Solutions/Mobility-Analytics.ipynb)| Not Available|
 | 8 | To automate the loan eligibility process | [loan-prediction.ipynb](https://github.com/Anjitha95/ML_projects/blob/master/Solutions/loan-prediction.ipynb) |Not Available|
 | 9 | Prediction of survival on the Titanic| [titanic survival prediction.ipynb](https://github.com/Anjitha95/ML_projects/blob/master/Solutions/titanic%20survival%20prediction.ipynb)|Not Available|
-|10 | To predict whether the cancer is benign or malignant| [Predict Cancer.ipynb](https://github.com/Anjitha95/ML_projects/blob/master/Solutions/Predict%20Cancer.ipynb)| Not Available|
+|10 | To predict whether the cancer is benign or malignant| [Predict Cancer.ipynb](https://github.com/Anjitha95/ML_projects/blob/master/Solutions/Predict%20Cancer.ipynb)| [Video](https://www.youtube.com/watch?v=5aIqorM9TJ4)|
 
